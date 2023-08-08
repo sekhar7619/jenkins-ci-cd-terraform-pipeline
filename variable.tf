@@ -3,3 +3,10 @@ provider "aws" {
         access_key              ="AKIAZWQNTFDD6Y7DS64D"
         secret_key              ="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"
         }
+variable "name" {
+  default = "rajartechdev"
+}
+variable "name" {
+  default = "rajartechdev"
+}
+
